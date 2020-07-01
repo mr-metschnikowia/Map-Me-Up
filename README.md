@@ -1,3 +1,3 @@
 # Map-Me-Up
-Simple BLAST algorithm
+Simple BLAST-like algorithm
 
